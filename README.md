@@ -16,7 +16,7 @@
 
 6 Fixed-income Portfolio Management
 
-7 Equity Portfolio Management
+7 [Equity Portfolio Management][md](./Equity.ipynb) [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/Equity.ipynb)
 
 8 [Alternative Investment for Portfolio Management][md](./AI.ipynb)  [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/AI.ipynb)
 
@@ -33,3 +33,7 @@ IPS的写作可以作为做任何事情的框架
 可以用期权眼光看待现实世界的所有机会  
 
 BF可以让自己不断自省
+
+因子法看世界，然后Mapping回来
+
+mental accounting来管理自己
