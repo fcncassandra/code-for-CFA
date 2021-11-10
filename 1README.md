@@ -3,8 +3,10 @@
 
 ## 项目目录
 
-[Behavioral Finance](./BF.ipynb)
+[Behavioral Finance](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/BF.ipynb)
 
 [Capital Market Expectations](./CME.ipynb)
 
 [Asset Allocation](./AA.ipynb)
+
+[Derivatives and Currency Management](./Der&CM.ipynb)
