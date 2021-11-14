@@ -22,9 +22,9 @@
 
 9 Private Wealth Management  
 
-10 Portfolio Management for Institutional Investors  
+10 [Portfolio Management for Institutional Investor][md](./PM.ipynb) [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/PM.ipynb)
 
-11 Trading Performance Evaluation and Manager Selection  
+11 [Trading Performance Evaluation and Manager Selection][md](./Trading.ipynb) [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/Trading.ipynb)   
 
 ## 感想
 
