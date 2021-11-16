@@ -4,7 +4,7 @@
 
 ## 项目目录
 
-1 Ethics and Professional Standards
+1 [Ethics and Professional Standards][md](./Ethics.ipynb)  [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/Ethics.ipynb)
 
 2 [Behavioral Finance][md](./BF.ipynb)  [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/BF.ipynb)
 
@@ -14,13 +14,13 @@
 
 5 [Derivatives and Currency Management][md](./Der&CM.ipynb)  [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/Der&CM.ipynb)
 
-6 Fixed-income Portfolio Management
+6 [Fixed-income Portfolio Management][md](./FI.ipynb)  [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/FI.ipynb)
 
 7 [Equity Portfolio Management][md](./Equity.ipynb) [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/Equity.ipynb)
 
 8 [Alternative Investment for Portfolio Management][md](./AI.ipynb)  [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/AI.ipynb)
 
-9 Private Wealth Management  
+9 [Private Wealth Management][md](./PWM.ipynb) [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/PWM.ipynb)
 
 10 [Portfolio Management for Institutional Investor][md](./PM.ipynb) [jupyter](https://nbviewer.org/github/fcncassandra/code-for-CFA/blob/main/PM.ipynb)
 
